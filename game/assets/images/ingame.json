@@ -1,0 +1,132 @@
+{"frames": [
+
+{
+	"filename": "bullet.png",
+	"frame": {"x":599,"y":1,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+{
+	"filename": "medi.png",
+	"frame": {"x":648,"y":83,"w":40,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":40,"h":37},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "ship_gun_gray.png",
+	"frame": {"x":544,"y":105,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":40,"h":16}
+},
+{
+	"filename": "ship_gun_gray_destroyed.png",
+	"frame": {"x":578,"y":105,"w":31,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":31,"h":16},
+	"sourceSize": {"w":40,"h":16}
+},
+{
+	"filename": "ship_small_b_body.png",
+	"frame": {"x":495,"y":1,"w":102,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":102,"h":50},
+	"sourceSize": {"w":105,"h":54}
+},
+{
+	"filename": "ship_small_body.png",
+	"frame": {"x":544,"y":53,"w":102,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":102,"h":50},
+	"sourceSize": {"w":105,"h":54}
+},
+{
+	"filename": "ship_small_body_b_destroyed.png",
+	"frame": {"x":1,"y":65,"w":105,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":54},
+	"sourceSize": {"w":105,"h":54}
+},
+{
+	"filename": "ship_small_body_destroyed.png",
+	"frame": {"x":108,"y":65,"w":105,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":54},
+	"sourceSize": {"w":105,"h":54}
+},
+{
+	"filename": "speed.png",
+	"frame": {"x":648,"y":1,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "star.png",
+	"frame": {"x":648,"y":43,"w":40,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":38},
+	"sourceSize": {"w":40,"h":38}
+},
+{
+	"filename": "water_ripple_small_000.png",
+	"frame": {"x":166,"y":1,"w":163,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":163,"h":61},
+	"sourceSize": {"w":168,"h":64}
+},
+{
+	"filename": "water_ripple_small_001.png",
+	"frame": {"x":331,"y":1,"w":162,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":162,"h":61},
+	"sourceSize": {"w":168,"h":64}
+},
+{
+	"filename": "water_ripple_small_002.png",
+	"frame": {"x":215,"y":64,"w":163,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":163,"h":61},
+	"sourceSize": {"w":168,"h":64}
+},
+{
+	"filename": "water_ripple_small_003.png",
+	"frame": {"x":1,"y":1,"w":163,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":163,"h":62},
+	"sourceSize": {"w":168,"h":64}
+},
+{
+	"filename": "water_ripple_small_004.png",
+	"frame": {"x":380,"y":64,"w":162,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":162,"h":61},
+	"sourceSize": {"w":168,"h":64}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ingame.png",
+	"format": "RGBA8888",
+	"size": {"w":689,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3224ad780da1684e523a374f4b1012bb:995e9ebef51b04c888584868591eb70f:a0a7aae19725baf1127883d8cc485c4f$"
+}
+}

@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "Android_style_loader_frame_0001.png",
+	"frame": {"x":1,"y":342,"w":95,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":95,"h":93},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0002.png",
+	"frame": {"x":1,"y":98,"w":95,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":4,"w":95,"h":121},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0003.png",
+	"frame": {"x":131,"y":1,"w":95,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":95,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0004.png",
+	"frame": {"x":1,"y":221,"w":95,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":95,"h":119},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0005.png",
+	"frame": {"x":98,"y":325,"w":94,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":17,"w":94,"h":95},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0006.png",
+	"frame": {"x":98,"y":131,"w":120,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":120,"h":95},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0007.png",
+	"frame": {"x":1,"y":1,"w":128,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":128,"h":95},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "Android_style_loader_frame_0008.png",
+	"frame": {"x":98,"y":228,"w":119,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":119,"h":95},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loader.png",
+	"format": "RGBA8888",
+	"size": {"w":227,"h":436},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ff363212d08057145db0d7096d92afec:00d6f0c0ae0b5c6a10e6895830182225:f738fe997bb2212a06178648a8058842$"
+}
+}
