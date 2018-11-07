@@ -1,5 +1,5 @@
 # phaser_typescript
-an phaser.io game example written in typescript with comments in german language. it was developed with phaser version 2.9.4 and typescript version 2.6.2.
+an [phaser.io](http://phaser.io/) game example written in typescript with comments in german language. it was developed with phaser version 2.9.4 and typescript version 2.6.2.
 
 game idea is a pirates game in top down view:
 
